@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Research Assistant
 ---------------------------
 
-Hello there! 👋 I'm a first-year Ph.D. student at the University of Illinois at Chicago, fortunate to be under the guidance of Professor Ohannessian. I earned my bachelor's degree from the University of Tehran, majoring in Control Engineering. Over the past 2-3 years, I've found myself captivated by the fascinating world of AI and the boundless possibilities it offers. I've been on a quest to tap into the insights behind cutting-edge AI models, constantly seeking new horizons for exploration. Beyond my academic pursuits, I'm passionate about creating valuable content that reflects my interests. You can catch a glimpse of this on my YouTube channel, where I share my insights and experiences. I'm always eager to absorb new knowledge, and that's what keeps my journey exciting! 😄🚀
+Hello there! 👋 I'm a second-year Ph.D. student at the University of Illinois at Chicago, fortunate to be under the guidance of Professor Ohannessian. I earned my bachelor's degree from the University of Tehran, majoring in Control Engineering. Over the past 2-3 years, I've found myself captivated by the fascinating world of AI and the boundless possibilities it offers. I've been on a quest to tap into the insights behind cutting-edge AI models, constantly seeking new horizons for exploration. Beyond my academic pursuits, I'm passionate about creating valuable content that reflects my interests. You can catch a glimpse of this on my YouTube channel, where I share my insights and experiences. I'm always eager to absorb new knowledge, and that's what keeps my journey exciting! 😄🚀
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [svass@uic.edu](mailto:svass@uic.edu)
-* 🧠  I'm learning JAX and FLAX
+* 🧠  I'm learning Vision Language models
 
 ### Skills
 
